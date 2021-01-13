@@ -7,7 +7,7 @@ contentView.append(
 );
 
 function loadUrl() {
-  $(WebView).only().url = "https://google.com";
+  $(WebView).only().url = "http://www.solincarllogistica.ml";
 }
 
 loadUrl();
